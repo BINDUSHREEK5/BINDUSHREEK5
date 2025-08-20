@@ -1,6 +1,6 @@
 - Hi, I’m BINDUSHREE👋
 
-I'm an upcoming Software Developer passionate about building impactful applications and learning new technologies. 
+Computer Science Student | passionate about building impactful applications and learning new technologies. 
 
 ## About Me
 - Currently learning : Python ..
